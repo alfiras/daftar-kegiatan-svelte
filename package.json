@@ -1,6 +1,7 @@
 {
   "name": "daftar-kegiatan-svelte",
   "version": "1.0.0",
+  "homepage": "/",
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
